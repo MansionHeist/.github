@@ -1,5 +1,7 @@
 # Mansion Heist
 
+[Join Mansion Heist Now!](http://158.247.249.12/)
+
 > 저택의 보물을 노리고 침입한 도둑을 모두 잡아라!  
 > 저택의 삼엄한 보안을 전부 뚫고 보물을 훔쳐라!
 
@@ -28,6 +30,12 @@
 ### Server
 
 - Node.js
+- Express
+- Socket.io
+
+### Web
+
+- Nginx
 
 ## C. 게임 소개
 
